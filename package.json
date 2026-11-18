@@ -1,0 +1,20 @@
+{
+  "name": "@softclick-ma/luxury-fleet-car-rental-headless-commerce-blueprint",
+  "version": "1.0.0",
+  "description": "Headless Next.js 15 + React Native + WhatsApp API blueprint for luxury car rental fleets, CAN-Bus telematics & luxury e-commerce.",
+  "homepage": "https://softclick.ma/services/mobile-development",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/softclick-ma/luxury-fleet-car-rental-headless-commerce-blueprint.git"
+  },
+  "keywords": [
+    "car-rental-booking-software",
+    "fleet-telematics",
+    "headless-ecommerce",
+    "react-native-driver-app",
+    "softclick"
+  ],
+  "license": "MIT",
+  "author": "SOFTCLICK SARL <contact@softclick.ma> (https://softclick.ma)",
+  "main": "./index.ts"
+}
